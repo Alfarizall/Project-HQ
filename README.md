@@ -1,5 +1,5 @@
 # Project-HQ
-Project HQ adalah aplikasi mobile berbasis Android Studio yang dirancang untuk menampilkan integrasi berbagai fitur dasar dalam satu platform sederhana namun interaktif.
+Project HQ adalah aplikasi mobile berbasis Android Studio yang dirancang untuk menampilkan integrasi berbagai fitur dasar dalam satu platform sederhana.
 Aplikasi ini dikembangkan menggunakan Kotlin dengan Gradle Kotlin DSL, serta menerapkan Material Design 3 bertema hijau lembut yang memberikan kesan alami, segar, dan nyaman digunakan.
 
 🎯 Tujuan Proyek
