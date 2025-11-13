@@ -14,26 +14,54 @@ Menyimulasikan aplikasi dashboard dengan data statis, namun memiliki tampilan da
 
 ⚙️ Fitur Utama
 
-Splash Screen
+•	Splash Screen
 Tampilan pembuka selama 5 detik yang menampilkan logo dan judul aplikasi.
 
-Dashboard (Navigation Drawer)
+<p align="center">
+  <img src="Images/SplashScreen.png" width="200" alt="Splash Screen">
+</p>
+
+•	Dashboard (Navigation Drawer)
 Menu navigasi utama yang menghubungkan ke berbagai halaman menggunakan Fragment.
 
-Biodata
+<p align="center">
+  <img src="Images/Sidebar.png" width="200" alt="Sidebar">
+</p>
+
+•	Biodata
 Formulir berisi data diri dengan foto profil, input teks, radio button, dropdown, dan tanggal lahir.
 
-Kontak
+<p align="center">
+  <img src="Images/Biodata.png" width="200" alt="Biodata">
+</p>
+
+•	Kontak
 Daftar 15 kontak dengan nama, nomor telepon, dan avatar bulat yang dimuat dari sumber online.
 
-Kalkulator
+<p align="center">
+  <img src="Images/Kontak.png" width="200" alt="Kontak">
+</p>
+
+•	Kalkulator
 Fitur kalkulator sederhana dengan operasi matematika dasar seperti tambah, kurang, kali, bagi, kuadrat, dan akar kuadrat.
 
-Cuaca
+<p align="center">
+  <img src="Images/Kalkulator.png" width="200" alt="Kalkulator">
+</p>
+
+•	Cuaca
 Menampilkan informasi cuaca statis (suhu, kelembapan, kondisi) dengan ikon cuaca dari sumber online.
 
-Berita
+<p align="center">
+  <img src="Images/Cuaca.png" width="200" alt="Cuaca">
+</p>
+
+•	Berita
 Menampilkan daftar berita statis berupa gambar dan ringkasan teks menggunakan RecyclerView.
+
+<p align="center">
+  <img src="Images/Berita.png" width="200" alt="Berita">
+</p>
 
 🧩 Teknologi yang Digunakan
 
