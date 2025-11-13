@@ -6,11 +6,11 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.GravityCompat
 import androidx.fragment.app.commit
 import com.example.projecthydrobase.databinding.ActivityMainBinding
-import com.example.projecthydrobase.fragments.BeritaFragment
 import com.example.projecthydrobase.fragments.BiodataFragment
-import com.example.projecthydrobase.fragments.CuacaFragment
-import com.example.projecthydrobase.fragments.KalkulatorFragment
 import com.example.projecthydrobase.fragments.KontakFragment
+import com.example.projecthydrobase.fragments.KalkulatorFragment
+import com.example.projecthydrobase.fragments.CuacaFragment
+import com.example.projecthydrobase.fragments.BeritaFragment
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

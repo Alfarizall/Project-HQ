@@ -4,4 +4,9 @@
     <string name="navigation_drawer_close">Close navigation</string>
     <string name="nama">Muhammad Alfarizal Hafidz</string>
     <string name="nim">152023050</string>
+    <string name="bio_nim">NIM: 152023050</string>
+    <string name="bio_program">Program Studi: Informatika</string>
+    <string name="bio_email">Email: alfarizalhafidz876@google.com</string>
+    <string name="bio_phone">Telepon: +62 813-8085-2641</string>
+    <string name="bio_address">Alamat: Bogor, Jawa Barat, Indonesia</string>
 </resources>
